@@ -1,1 +1,3 @@
-# IT_ELECTIVE_2_BSIT31E2_PREFINAL_EXAM_Salomon_LawrenceAngelo
+# IT ELECTIVE 2 - PREFINAL EXAMINATION
+Name: Salomon, Lawrence Angelo
+Course & Section: BSIT31E2
